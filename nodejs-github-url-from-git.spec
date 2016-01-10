@@ -1,12 +1,12 @@
 %define		pkg	github-url-from-git
 Summary:	Parse a github git url and return the github repo url
 Name:		nodejs-%{pkg}
-Version:	1.2.0
+Version:	1.3.0
 Release:	1
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
-# Source0-md5:	61507f2cf2210c1776185e91a6e0f1e9
+# Source0-md5:	c2113bcbd29428b7ee4497106e6439da
 URL:		https://github.com/visionmedia/node-github-url-from-git
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
