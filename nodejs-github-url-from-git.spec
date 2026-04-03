@@ -2,7 +2,7 @@
 Summary:	Parse a github git url and return the github repo url
 Name:		nodejs-%{pkg}
 Version:	1.3.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
